@@ -9,7 +9,7 @@ Oracle Cloud empowers DBAs, developers, and DevOps professionals with **full RES
 
 ---
 
-### 🔧 **Why Use REST APIs for ADB Management?**
+###  **Why Use REST APIs for ADB Management?**
 
 * **Automation & Reusability**: Design scripts once, use them repeatedly across environments (Dev → Test → Prod).
 * **Version-Controlled Deployments**: Store API-based infrastructure definitions in Git or other version control systems.
