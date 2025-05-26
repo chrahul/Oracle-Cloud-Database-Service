@@ -168,9 +168,9 @@ Allow group CoyoteDBA to read autonomous-container-databases in compartment FA
 
 | Role                               | Provision Infra | Create ACD | Create ADB | Manage Backups | User Mgmt | Budget Control |
 | ---------------------------------- | --------------- | ---------- | ---------- | -------------- | --------- | -------------- |
-| Fleet Admin (`AcmeFA`)             | ✅               | ✅          | ❌          | ❌              | ❌         | ✅              |
-| DBA (`RoadrunnerDBA`, `CoyoteDBA`) | ❌               | ❌          | ✅          | ✅              | ✅         | ❌              |
-| Developer                          | ❌               | ❌          | ❌          | ❌              | ❌         | ❌              |
+| Fleet Admin (`AcmeFA`)             | YES               | YES           | NO          |  NO              |  NO         | YES               |
+| DBA (`RoadrunnerDBA`, `CoyoteDBA`) |  NO               |  NO          | YES           | YES               | YES          |  NO              |
+| Developer                          |  NO               |  NO          |  NO          |  NO              |  NO         |  NO              |
 
 ---
 
