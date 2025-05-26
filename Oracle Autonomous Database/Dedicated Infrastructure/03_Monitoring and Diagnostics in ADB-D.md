@@ -7,6 +7,9 @@ While **Autonomous Database (ADB)** automates many traditional DBA tasks (e.g., 
 
 ---
 
+![image](https://github.com/user-attachments/assets/0f1ef751-0423-4a31-a455-9ef6f8548914)
+
+
 ###  Key Responsibilities of the Application DBA
 
 | Area                       | Description                                                                           |
