@@ -2,7 +2,7 @@
 
 ---
 
-##  **Tutorial: Maintenance Scheduling in Autonomous Database Dedicated (ADB-D)**
+##  **Maintenance Scheduling in Autonomous Database Dedicated (ADB-D)**
 
 ---
 
@@ -47,7 +47,7 @@ Each component can have:
 
 ---
 
-### 🕓 **How to Configure Maintenance Schedule**
+###  **How to Configure Maintenance Schedule**
 
 In the OCI Console or via CLI/API:
 
@@ -117,7 +117,7 @@ Notifications are sent via:
 
 ---
 
-### 🔧 **Maintenance Operation Methods**
+###  **Maintenance Operation Methods**
 
 Maintenance actions can be triggered through:
 
