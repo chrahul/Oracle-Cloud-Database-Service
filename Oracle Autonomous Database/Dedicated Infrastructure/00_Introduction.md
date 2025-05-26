@@ -82,6 +82,9 @@ Oracle Autonomous Database offers two main deployment options:
 * Subnet is **private** to ensure secure access.
 * Supports **subnet peering, IPsec VPN, FastConnect** for on-premises integration.
 
+![image](https://github.com/user-attachments/assets/adeaf628-d096-4933-a3e5-0df23bc3c807)
+
+
 ---
 
 ## **5. Autonomous Database on Exadata Cloud\@Customer**
