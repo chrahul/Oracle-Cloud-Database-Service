@@ -8,6 +8,9 @@
 
 ###  **Overview**
 
+![image](https://github.com/user-attachments/assets/fa1b6e96-051a-4154-a39e-b667077f3ecb)
+
+
 Autonomous Database Dedicated (ADB-D) gives enterprise users granular control over maintenance operations, unlike the shared Autonomous Database model. This includes **custom scheduling of software updates, patching, and version control**, empowering organizations to independently validate and deploy updates across development, staging, and production environments.
 
 This tutorial covers:
