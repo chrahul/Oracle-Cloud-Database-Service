@@ -107,7 +107,7 @@ Allow group CoyoteDBA to read autonomous-container-databases in compartment FA
 
 ---
 
-### 👨‍💻 Step 3: DBA – Create and Manage Autonomous Databases
+###  Step 3: DBA – Create and Manage Autonomous Databases
 
 1. **Create ADB in Shared ACD**
 
