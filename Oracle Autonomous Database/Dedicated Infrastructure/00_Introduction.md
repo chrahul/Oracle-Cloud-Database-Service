@@ -89,6 +89,9 @@ Oracle Autonomous Database offers two main deployment options:
 
 ## **5. Autonomous Database on Exadata Cloud\@Customer**
 
+![image](https://github.com/user-attachments/assets/f444ed21-8d7f-460d-b9ba-e6604e52bf68)
+
+
 ### **Why Use Cloud\@Customer?**
 
 * For customers needing:
