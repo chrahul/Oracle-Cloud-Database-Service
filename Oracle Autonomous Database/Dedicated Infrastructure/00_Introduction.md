@@ -1,4 +1,4 @@
-** "Autonomous Database Dedicated" **  
+ 
 
 ## **Oracle Autonomous Database: Dedicated Infrastructure**
 
@@ -68,6 +68,9 @@ Oracle Autonomous Database offers two main deployment options:
 
   * Automatic at-rest and in-transit encryption.
   * Transparent to authorized applications.
+ 
+  ![image](https://github.com/user-attachments/assets/3edf3ee7-0765-4a83-aa4b-b6c39404962a)
+
 
 ---
 
